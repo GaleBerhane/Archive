@@ -1,0 +1,15 @@
+#!name=Evernote Rule Module
+#!desc=Evernote 模块配置
+
+[Rule]
+
+PROCESS-NAME,Evernote,Proxy
+DOMAIN-SUFFIX,evernote.com,Proxy
+
+[URL Rewrite]
+
+^https?://app\.yinxiang\.com/ClipperLogin\.action\?wck=clipper_chr https://www.evernote.com/ClipperLogin.action?wck=clipper_chr 302
+
+[MITM]
+
+hostname = %APPEND% app.yinxiang.com
