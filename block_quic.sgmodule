@@ -1,0 +1,5 @@
+#!name=block_quic
+#!desc=block_quic
+
+[Rule]
+AND,((PROTOCOL,UDP),(DEST-PORT,443)),REJECT-NO-DROP
