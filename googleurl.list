@@ -3,4 +3,5 @@ DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,cloud.cupronickel.goog
+DOMAIN,prod.brass.cloud.cupronickel.goog
+DOMAIN,prod.zinc.cloud.cupronickel.goog
