@@ -1,5 +1,11 @@
-DOMAIN-SUFFIX,dawngate.com
+DOMAIN-SUFFIX,ea.com
 DOMAIN-SUFFIX,eastore.com
+DOMAIN,eaassets-a.akamaihd.net
+DOMAIN,ea-api.arkoselabs.com
+DOMAIN,cloudsync-prod.s3.amazonaws.com
+DOMAIN,origin-a.akamaihd.net
+DOMAIN,rtm.tnt-ea.com
+DOMAIN-SUFFIX,dawngate.com
 DOMAIN-SUFFIX,lordofultima.com
 DOMAIN-SUFFIX,origin.com
 DOMAIN-SUFFIX,origin.tv
